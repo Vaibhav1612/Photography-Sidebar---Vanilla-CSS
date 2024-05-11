@@ -11,3 +11,4 @@ PixelPerfect is a mini project showcasing a sidebar menu created using only HTML
 ## Screenshots
 
 ![Alt text](screenshots/sidebar-menu1.png)
+![Alt text](screenshots/sidebar-menu2.png)
